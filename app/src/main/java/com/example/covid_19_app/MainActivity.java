@@ -59,7 +59,7 @@ public class MainActivity
 
         // Create a String request
         // using Volley Library
-        String url = "https:// corona.lmao.ninja/v2/all";
+        String url = "https://corona.lmao.ninja/v2/all";
 
         StringRequest request
                 = new StringRequest(
